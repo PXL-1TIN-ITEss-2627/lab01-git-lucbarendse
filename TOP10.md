@@ -1,7 +1,10 @@
 # Our Team Top 10
 
-1. kerem
-2. TBD
+<<<<<<< HEAD
+# Onze team top 10
+
+1. Gloomhaven
+2. Terraforming Mars
 3. TBD
 4. TBD
 5. TBD
